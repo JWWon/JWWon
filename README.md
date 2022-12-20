@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Love fixing real-life problems that technology can solve with great impact 💥
 
 - 🧗 Tried to make my own business for 3 times, and currently finding problems that I want to solve.
-- 🚀 Working as a front-end engineer at [PPLINK](https://www.pagecall.com/) since Jan. 2021.
+- 🚀 Working as a software engineer at [Twelve Labs](https://twelvelabs.io) since May. 2022.
 - 🤹‍♀️ Have ability to build back-end and UI design as well.
 - 💂‍♀️ I served my duty as software developer at Cyber Operation Command, ROK for 1.5 years.
 
